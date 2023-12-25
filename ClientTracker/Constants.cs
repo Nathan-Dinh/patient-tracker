@@ -8,8 +8,15 @@ namespace ClientTracker
 {
     class Constants
     {
-        public const string folderDirectory = "C:\\Users\\natha\\Documents\\N.DAssignment3-M2023-04-16\\N.DAssignment3-M\\Patients";
-        public const string textDirectiry = @"C:\\Users\\natha\\Documents\\N.DAssignment3-M2023-04-16\\N.DAssignment3-M\\Patients\";
+        //Use the file path to the patients folder within the project for the form to work
+        //Formate example: C:\\dummy\\dummy\\dummy\\Patients
+        public const string folderDirectory = "";
+
+        //For textDirectiry use the same file path above 
+        //Note: For the textDirectiry you need the add "\" at the path
+        //Formate example: C:\\dummy\\dummy\\dummy\\Patients\
+        public const string textDirectiry = @"";
+
         public const string regexBP = @"^BP\s\d+\/\d+$";
         public const char semiColenSeperator = ';';
         public const char seperator = '|';
