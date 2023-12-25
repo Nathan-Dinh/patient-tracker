@@ -31,4 +31,13 @@ Notably, this form boasts scalability, leveraging full CRUD functionality to ens
    
 3. Add that folder route you just created to the Constants route
 
+![image](https://github.com/Nathan-Dinh/client-tracking-windows-forms/assets/106849932/37bfebe9-1696-485e-88de-60c1c0b3c76a)
+
+![image](https://github.com/Nathan-Dinh/client-tracking-windows-forms/assets/106849932/d7753d75-c33a-4bc7-902e-691530ae8a9f)
+
+
+
+
+
+
 
