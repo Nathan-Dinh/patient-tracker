@@ -8,7 +8,7 @@ namespace ClientTracker
 {
     class Constants
     {
-        //Use the file path to the patients folder within the project for the form to work
+        //Use the file path to the patients folder if you have created one. If not, create one 
         //Formate example: C:\\dummy\\dummy\\dummy\\Patients
         public const string folderDirectory = "";
 
