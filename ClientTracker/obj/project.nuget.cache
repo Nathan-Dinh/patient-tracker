@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLmAFn9uqv1Ci4dL3DPG3RmZTlkrN+lU0AHIqS3+pRe8Y1qpiQnpbP6qsJnAqHt4n1iake24zq71CHXUPXhPug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natha\\Documents\\Personal\\Github-repos\\Client-Tracker\\ClientTracker\\ClientTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natha\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

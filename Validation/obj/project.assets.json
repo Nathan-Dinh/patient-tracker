@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natha\\Documents\\N.DAssignment3-M2023-04-16\\N.DAssignment3-M\\Validation\\Validation.csproj",
+      "projectUniqueName": "C:\\Users\\natha\\Documents\\Personal\\Github-repos\\Client-Tracker\\Validation\\Validation.csproj",
       "projectName": "Validation",
-      "projectPath": "C:\\Users\\natha\\Documents\\N.DAssignment3-M2023-04-16\\N.DAssignment3-M\\Validation\\Validation.csproj",
+      "projectPath": "C:\\Users\\natha\\Documents\\Personal\\Github-repos\\Client-Tracker\\Validation\\Validation.csproj",
       "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\natha\\Documents\\N.DAssignment3-M2023-04-16\\N.DAssignment3-M\\Validation\\obj\\",
+      "outputPath": "C:\\Users\\natha\\Documents\\Personal\\Github-repos\\Client-Tracker\\Validation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

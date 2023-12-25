@@ -34,3 +34,15 @@ C:\Users\natha\Documents\N.DAssignment3-M2023-04-16\N.DAssignment3-M\Validation\
 C:\Users\natha\Documents\N.DAssignment3-M2023-04-16\N.DAssignment3-M\Validation\obj\Debug\net7.0\refint\Validation.dll
 C:\Users\natha\Documents\N.DAssignment3-M2023-04-16\N.DAssignment3-M\Validation\obj\Debug\net7.0\Validation.pdb
 C:\Users\natha\Documents\N.DAssignment3-M2023-04-16\N.DAssignment3-M\Validation\obj\Debug\net7.0\ref\Validation.dll
+C:\Users\natha\Documents\Personal\Github-repos\Client-Tracker\Validation\bin\Debug\net7.0\Validation.deps.json
+C:\Users\natha\Documents\Personal\Github-repos\Client-Tracker\Validation\bin\Debug\net7.0\Validation.dll
+C:\Users\natha\Documents\Personal\Github-repos\Client-Tracker\Validation\bin\Debug\net7.0\Validation.pdb
+C:\Users\natha\Documents\Personal\Github-repos\Client-Tracker\Validation\obj\Debug\net7.0\Validation.csproj.AssemblyReference.cache
+C:\Users\natha\Documents\Personal\Github-repos\Client-Tracker\Validation\obj\Debug\net7.0\Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\Personal\Github-repos\Client-Tracker\Validation\obj\Debug\net7.0\Validation.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\Personal\Github-repos\Client-Tracker\Validation\obj\Debug\net7.0\Validation.AssemblyInfo.cs
+C:\Users\natha\Documents\Personal\Github-repos\Client-Tracker\Validation\obj\Debug\net7.0\Validation.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\Personal\Github-repos\Client-Tracker\Validation\obj\Debug\net7.0\Validation.dll
+C:\Users\natha\Documents\Personal\Github-repos\Client-Tracker\Validation\obj\Debug\net7.0\refint\Validation.dll
+C:\Users\natha\Documents\Personal\Github-repos\Client-Tracker\Validation\obj\Debug\net7.0\Validation.pdb
+C:\Users\natha\Documents\Personal\Github-repos\Client-Tracker\Validation\obj\Debug\net7.0\ref\Validation.dll
