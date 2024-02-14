@@ -24,7 +24,7 @@ Notably, this form boasts scalability, leveraging full CRUD functionality to ens
 
 1. First, git clone this project
 ```bash
-  git clone https://github.com/Nathan-Dinh/client-tracking-windows-forms.git
+  git clone https://github.com/Nathan-Dinh/Patient-tracker.git
 ```
 
 2. Create a folder that will hold patients information
